@@ -65,6 +65,6 @@ npm run deploy     # build + push to gh-pages branch
 ```
 
 ## Deploy
-- **GitHub repo:** https://github.com/kennyfairris/bank-ozk (to be created)
-- **Live URL:** https://kennyfairris.github.io/bank-ozk/
+- **GitHub repo:** https://github.com/kfairris/bank-ozk
+- **Live URL:** https://kfairris.github.io/bank-ozk/
 - **Deploy branch:** gh-pages
